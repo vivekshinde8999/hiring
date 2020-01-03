@@ -16,7 +16,6 @@ a default 'X'.
 the error and asks them to enter again. 
 5. The game continues until it's over, when the game is over, it announces the result. 
 
-
 ### Level 1 (Terminal Based 3x3 Grid)
 As a traditional game, mentioned above but only for 3x3 grid where Two players take turn to enter position
 
@@ -50,7 +49,7 @@ We will start watching Pull request from 7 January onwards. Once we get all pull
 
 ## Submit Solution
 
-Please Fork this repository on Github. Work independently on problem with help of Internet Friends and Teachers. Once complete submitting a pull request back to this repo. Sample video on how Fork and Pull request work is shown below
+Please Fork this repository on Github. Work independently on problem with help of Internet Friends and Teachers. Once complete submit pull request back to this repo. Sample video on how Fork and Pull request work is shown below
 
 https://www.youtube.com/watch?v=_NrSWLQsDL4
 
